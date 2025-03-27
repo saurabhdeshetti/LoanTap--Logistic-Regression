@@ -1,4 +1,4 @@
-# Logistic-Regression--LoanTap
+# LoanTap - Logistic Regression
 
 ### Introduction:
 
